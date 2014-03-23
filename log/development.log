@@ -48525,3 +48525,46 @@ Started GET "/assets/intro03.png" for 127.0.0.1 at 2014-03-23 13:47:49 +1100
 
 
 Started GET "/assets/macapp.png" for 127.0.0.1 at 2014-03-23 13:47:49 +1100
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.js" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/main.css" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/bootstrap.css" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/smoothscroll.js" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/jquery.min.js" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/arrow1.png" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/app-bg.png" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/arrow2.png" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/intro01.png" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/intro02.png" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/intro03.png" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
+
+
+Started GET "/assets/macapp.png" for 127.0.0.1 at 2014-03-23 13:53:20 +1100
