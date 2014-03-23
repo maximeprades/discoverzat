@@ -4183,8 +4183,9 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 15px 15px;
-  font-size: 18px;
+  font-size: 22px;
   line-height: 20px;
+  font-weight: bold;
 }
 
 .navbar-brand:hover,
@@ -6170,6 +6171,21 @@ body.modal-open,
 
 .carousel-caption .btn {
   text-shadow: none;
+}
+
+.btn-group {
+  margin-bottom: 0px;
+  margin-left: 475px;
+}
+
+.btn-group2 {
+  margin-bottom: 0px;
+  margin-left: 460px;
+}
+
+.btnhelptext {
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 @media screen and (min-width: 768px) {
